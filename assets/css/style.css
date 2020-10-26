@@ -1,3 +1,11 @@
 body {
-    background-color:coral;
+    background-color:#83BBE0;
+    font-family:courier;
+    margin:1;
+  line-height:2.0;
+}
+ h1{
+     font-family:fantasy;
+    background-color:#E09B34;
+    text-shadow: 531px 0px #000;
 }
